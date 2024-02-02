@@ -1,4 +1,4 @@
-linux-nuker
------------
+Funny Software
+--------------
 
-Deletes every file on the file system. Completely destroys any linux system if you run it as root. 
+These are some scripts that you can use if you want to have some fun! (Fun meaning destroying your computer or making it useless)
