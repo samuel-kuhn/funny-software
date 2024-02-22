@@ -34,4 +34,4 @@ else
     echo -e "\e[1;31m" # Set text color to red
     echo "*sad face*"
     echo -e "\e[0m" # Reset text color
-fi
+fi 
